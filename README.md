@@ -45,5 +45,5 @@ You will need a web browser to run this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENCE](LICENCE) file for details.
 
