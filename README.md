@@ -22,7 +22,7 @@ You will need a web browser to run this project.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/to-do-list.git
+    git clone https://github.com/Visual-Studios/to-do-list.git
     ```
 2. Navigate to the project directory:
     ```bash
